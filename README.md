@@ -1,1 +1,1 @@
-My first readme
+This is my first attempt coding with a terminal.
